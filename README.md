@@ -1,17 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Chat application frontend is built using Next.js, typescript and tailwind css.
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Create a Next.js app using create-next-app
+2. Configure tailwind css as directed here https://tailwindcss.com/docs/installation/using-postcss
+3. To run this app on your device copy code from app/page.tsx
+4. Install all the dependencies needed for imports mentioned in app/page.tsx
+5. Run the development server:
+    npm run dev
